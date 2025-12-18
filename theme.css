@@ -79,24 +79,8 @@ h4 {
 /* Ubah menjadi: */
 /* [FIXED] Tampilkan dan posisikan poster di desktop */
 
-.layout-desktop .itemTags {
-    display: none;
-}
 
-.layout-desktop .detailImageContainer .card {
-    display: block !important;
-    position: absolute !important;
-    right: 5% !important;
-    top: 50% !important;
-    transform: translateY(-50%) !important;
-    z-index: 100 !important;
-    width: 25vw !important;
-    max-width: 400px !important;
-    min-width: 250px !important;
-    height: auto !important;
-    visibility: visible !important;
-    opacity: 1 !important;
-}
+
 /* Rule untuk folder icon (jaga agar terpisah dan valid) */
 .layout-desktop .cardImageIcon .material-icons.folder {
     display: block !important;
@@ -2992,14 +2976,14 @@ imgLogoIcon {
 }
 
 /* Quitamos imagen de poster */
-/*.layout-mobile .detailImageContainer .card,
+.layout-mobile .detailImageContainer .card,
 .layout-mobile .detailImageContainer .card.backdropCard,
 .layout-mobile .detailImageContainer .card.portraitCard,
 .layout-mobile .detailImageContainer .card.squareCard {
     top: auto;
     display: none !important;
 }
-*/
+
 
 .layout-mobile .detailImageContainer .card.portraitCard {
     display: none !important;

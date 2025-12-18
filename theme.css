@@ -3244,10 +3244,6 @@ imgLogoIcon {
     display: none;
 }
 
-.detailImageContainer .card .cardBox {
-    margin: 0;
-    display: none;  /* ← INI YG BIKIN POSTER HILANG! */
-}
 
 .layout-mobile .mainDrawer {
     width: 315px !important;

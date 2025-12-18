@@ -78,7 +78,9 @@ h4 {
 
 /* Ubah menjadi: */
 /* [FIXED] Tampilkan dan posisikan poster di desktop */
-
+.layout-desktop .detailImageContainer .card {
+    display: block !important;
+}
 
 
 /* Rule untuk folder icon (jaga agar terpisah dan valid) */
@@ -3242,7 +3244,10 @@ imgLogoIcon {
     display: none;
 }
 
-
+.detailImageContainer .card .cardBox {
+    margin: 0;
+    display: none;  /* ← INI YG BIKIN POSTER HILANG! */
+}
 
 .layout-mobile .mainDrawer {
     width: 315px !important;

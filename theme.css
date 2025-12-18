@@ -76,9 +76,17 @@ h4 {
     /* inicial: 73 */
 }
 
-.layout-desktop .detailImageContainer .card,
-.layout-desktop .itemTags {
-    display: none;
+/* Ubah menjadi: */
+.layout-desktop .detailImageContainer .card {
+    display: block !important; /* POSTER DITAMPILKAN */
+    position: absolute !important;
+    right: 5% !important;
+    top: 50% !important;
+    transform: translateY(-50%) !important;
+    z-index: 100 !important;
+    width: 25vw !important;
+    max-width: 400px !important;
+    min-width: 250px !important;
 }
 .layout-desktop .cardImageIcon .material-icons .folder {
     display: block !important;

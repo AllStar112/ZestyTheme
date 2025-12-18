@@ -29,7 +29,7 @@ Two login wallpaper options: Minimal and Stylish.
 To add the theme to Jellyfin `v10.11+`, copy the following line to Dashboard > Branding² > Custom CSS:
 
 ```
-@import url('https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/theme.css');
+@import url('https://cdn.jsdelivr.net/gh/AllStar112/ZestyTheme@main/theme.css');
 ```
 
 <br>
@@ -69,7 +69,7 @@ The default color scheme.
 <img src="./images/colorschemes/blue.png" alt="blue" width="30%"/>
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/colorschemes/blue.css');
+@import url('https://cdn.jsdelivr.net/gh/AllStar112/ZestyTheme@main/colorschemes/blue.css');
 ```
 
 <details>
@@ -86,7 +86,7 @@ The default color scheme.
 <img src="./images/colorschemes/coral.png" alt="coral" width="30%"/>
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/colorschemes/coral.css');
+@import url('https://cdn.jsdelivr.net/gh/AllStar112/ZestyTheme@main/colorschemes/coral.css');
 ```
 
 <details>
@@ -103,7 +103,7 @@ The default color scheme.
 <img src="./images/colorschemes/gray.png" alt="gray" width="30%"/>
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/colorschemes/gray.css');
+@import url('https://cdn.jsdelivr.net/gh/AllStar112/ZestyTheme@main/colorschemes/gray.css');
 ```
 
 <details>
@@ -120,7 +120,7 @@ The default color scheme.
 <img src="./images/colorschemes/green.png" alt="green" width="30%"/>
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/colorschemes/green.css');
+@import url('https://cdn.jsdelivr.net/gh/AllStar112/ZestyTheme@main/colorschemes/green.css');
 ```
 
 <details>
@@ -137,7 +137,7 @@ The default color scheme.
 <img src="./images/colorschemes/purple.png" alt="purple" width="30%"/>
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/colorschemes/purple.css');
+@import url('https://cdn.jsdelivr.net/gh/AllStar112/ZestyTheme@main/colorschemes/purple.css');
 ```
 
 <details>
@@ -154,7 +154,7 @@ The default color scheme.
 <img src="./images/colorschemes/red.png" alt="red" width="30%"/>
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/colorschemes/red.css');
+@import url('https://cdn.jsdelivr.net/gh/AllStar112/ZestyTheme@main/colorschemes/red.css');
 ```
 
 <details>
@@ -171,7 +171,7 @@ The default color scheme.
 <img src="./images/colorschemes/yellow.png" alt="yellow" width="30%"/>
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/colorschemes/yellow.css');
+@import url('https://cdn.jsdelivr.net/gh/AllStar112/ZestyTheme@main/colorschemes/yellow.css');
 ```
 
 <details>
@@ -190,7 +190,7 @@ For more info on custom colors [click here](./colorschemes/COLORS.md). For more 
 Finally, _if_ you would like to use the alternative(stylish) login wallpaper, add the line below to your Custom CSS as well:
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/login-alt.css');
+@import url('https://cdn.jsdelivr.net/gh/AllStar112/ZestyTheme@main/login-alt.css');
 ```
 
 This is a comparison between the minimal(default) and stylish versions of the login wallpaper:

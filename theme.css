@@ -2992,13 +2992,14 @@ imgLogoIcon {
 }
 
 /* Quitamos imagen de poster */
-.layout-mobile .detailImageContainer .card,
+/*.layout-mobile .detailImageContainer .card,
 .layout-mobile .detailImageContainer .card.backdropCard,
 .layout-mobile .detailImageContainer .card.portraitCard,
 .layout-mobile .detailImageContainer .card.squareCard {
     top: auto;
     display: none !important;
 }
+*/
 
 .layout-mobile .detailImageContainer .card.portraitCard {
     display: none !important;

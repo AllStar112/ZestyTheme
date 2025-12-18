@@ -73,7 +73,7 @@ h4 {
 }
 .layout-desktop .detailPageWrapperContainer {
     margin-top: -89vh;
-    inicial: 73
+    /* inicial: 73 */
 }
 
 /* Ubah menjadi: */
@@ -82,9 +82,7 @@ h4 {
 
 
 /* Rule untuk folder icon (jaga agar terpisah dan valid) */
-.layout-desktop .cardImageIcon .material-icons.folder {
-    display: block !important;
-}
+
 
 .layout-desktop .cardImageIcon .material-icons .folder {
     display: block !important;
